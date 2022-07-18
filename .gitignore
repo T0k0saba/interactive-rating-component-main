@@ -21,5 +21,5 @@ README.md
 /src
 package-lock.json
 package.json
-tailwind.config.js
 /node_modules
+tailwind.config.js
