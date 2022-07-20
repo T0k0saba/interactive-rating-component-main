@@ -18,8 +18,4 @@
 README-template.md
 style-guide.md
 README.md
-/src
-package-lock.json
-package.json
-/node_modules
-tailwind.config.js
+
